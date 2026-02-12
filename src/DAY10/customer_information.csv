@@ -1,0 +1,12 @@
+CustomerID,Name,Age,Orders,Spending
+1,John,25.0,5.0,250.5
+2,Alice,30.0,,300.0
+3,Bob,,3.0,150.75
+4,Emma,28.0,4.0,
+5,David,35.0,2.0,500.0
+6,Sophia,40.0,6.0,620.0
+6,Sophia,40.0,6.0,620.0
+7,Michael,,1.0,80.0
+8,Olivia,22.0,,120.0
+9,Liam,31.0,3.0,
+10,Noah,29.0,5.0,310.0
